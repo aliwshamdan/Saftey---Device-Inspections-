@@ -1,1 +1,3 @@
 Devices such as, AED's, Fire Extinguisher's, Radio's, Elevator's, etc are given an NFC chip which is connected to a "tour" in a database. This database will collect data when the NFC tag is scanned and the inspection questions are answered. Data can be filitered / adjusted to be in a report and then exported to a selected file type.
+
+Currently using: https://asz.symmetryims.com/
