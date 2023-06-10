@@ -4,10 +4,13 @@ Each NFC Vhip (life saftey tag) could not be reutilized. Our contract required f
 I was required to schedule meetings with each Supervisor on the contract to describe how the tags would be delegated to the staff for placement on the life saftey devices.
 This required communication and coordination amongst the staff. Meetings were scheduled via Microsoft outlook and Microsoft Teams. 
 Follow up meetings were required with the staff supervisors to ensure all tags were placed around campus correctly. 
+"Guard Tours" were created and automated for each site. Essentially a list of scheduled checklists for various device inspections were upload into the Heliaus "Portal" this required for our Security Officers to login and scan each NFC tag within the tour that was associaated with the Life saftey device. There were multiple questions pertaining to the inspection (Yes or no questions) that were required to be answered during the inspection).
+The data that was captured not onky from the NFC Tags but also the ncident Reports was transformed into visual graphs for the client requesting the data (Astrazeneca Saftey) to read and determine if any updated needed to happen pertaining to safety around Campus.
 In addition to adding new tags on all of the Fire Extingusihers, AED's, Chair Lifts, Radios (For certain Sites), and Elevators, our incident reporting system needed to be built from scratch. This meant all key words that would help intiate a sequence of events that would automate a report for the employee documenting said report would have to be reentered per each sites contract requirements. 
 A new feature Heliaus provided allowed for the contracted security sites to utilize Blueprints to showcase the various locations of the life saftey devices around campus via a digital map (with annotations).
 Due to multiple sites being involved with this project, training documentation needed to be created. Each site had different requirements when it came to Heliaus. I had to cater each slide deck for each designated site. 
 Powerpoint slide decks were issued and described via multiple Microsoft Teams calls.
+
 
 
 
